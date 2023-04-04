@@ -13,7 +13,6 @@
 <li>I love philosophy and would like to write a book about it when I'm older!</li>
 </ul>
 
-<br>
 
 <h3>My Work</h3>
 <ul>
