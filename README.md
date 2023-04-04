@@ -29,3 +29,4 @@
 <br>
 <a href="mailto:tqiu@uwaterloo.ca">tqiu@uwaterloo.ca</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanxniee&layout=compact&theme=swift&show_icons=true)](https://github.com/aanxniee/github-readme-stats)
