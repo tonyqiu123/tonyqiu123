@@ -9,7 +9,7 @@
 <li>I previously was a Fullstack Developer at BrightBearsInfo for a year from May 2021 to Sep 2022 💻</li>
 <li>I was also Vice President and a Mentor at my high school's coding club where I taught my passion for web development! 🧑‍🏫</li>
 <li>I am passionate about using tech to optimize the world from an economic perspective 📈</li>
-<li>I speak English, Mandarin, and some Arabic (Egyption dialect)! 🌍</li>
+<li>I speak English, Mandarin, and some Arabic (Egyption dialect)! 🌐</li>
 <li>I love philosophy and would like to write a book about it when I'm older!</li>
 </ul>
 
@@ -18,7 +18,7 @@
 <ul>
 <li>What I'm working on:</li>
   <li>Checkout my <a href="https://tonyqiu.ca/">portfolio website</a>! I built it start-to-finish using React, Node.js, and MongoDB where I share projects and my personal blog! ✏️</li>
-  <li>My <a href="https://tonyswebdesigns.ca/">freelance gig</a> where I develop and manage static websites from an empty folder to a live, custom, responsive website for you! 🌐</li>
+  <li>My <a href="https://tonyswebdesigns.ca/">freelance gig</a> where I develop and manage static websites from an empty folder to a live, custom, responsive website for you! 🛠️</li>
   <li><a href="https://modernjobportal.netlify.app/">My job portal web app</a>! I've put almost 100 hours making this project to make it follow industry standards in data security, design, and development as I hope of one day selling it to a company! 📑</li>
 </ul>
 
