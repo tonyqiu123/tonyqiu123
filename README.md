@@ -1,4 +1,5 @@
-<h6>Hey, I'm Tony! <img style="width: 40x; height: 40px" src="https://emoj.ml/ablobcolorshift.gif"/></h6>
+<img style="width: 40x; height: 40px" src="https://emoj.ml/ablobcolorshift.gif"/>
+<h6>Hey, I'm Tony!</h6>
 
 <p>I'm an engineering student @ UWaterloo who is passionate about web app design and development with 3 years of relevant experience!</p>
 
