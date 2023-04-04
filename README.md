@@ -8,7 +8,7 @@
 <li>I am also a Fullstack Developer at BrightBearsInfo 💻</li>
 <li>I previously was a Vice President and Mentor for my high school's coding club where I taught my passion for web development! 🧑‍🏫</li>
 <li>I am passionate about using tech to optimize the world from an economic perspective 📈</li>
-<li>I speak English, Mandarin, and some Arabic! 🌍</li>
+<li>I speak English, Mandarin, and some Arabic (Egyption dialect)! 🌍</li>
 <li>I love philosophy and would like to write a book about it when I'm older!</li>
 </ul>
 
