@@ -18,7 +18,7 @@
 <ul>
 <li>What I'm working on:</li>
   <li>Checkout my <a href="https://tonyqiu.ca/">portfolio website</a>! I built it start-to-finish using React, Node.js, and MongoDB where I share projects and my personal blog!</li>
-  <li>My <a href="https://tonyswebdesigns.ca/">freelance gig</a> where I build static websites from an empty folder to a live, custom, responsive website for you!</li>
+  <li>My <a href="https://tonyswebdesigns.ca/">freelance gig</a> where I build static websites from the very scratch with an empty folder to a live, custom, responsive website for you!</li>
   <li><a href="https://modernjobportal.netlify.app/">My job portal web app</a>! I've put almost 100 hours making this project to make it follow industry standards in data security, design, and development as I hope of one day selling it to a company!</li>
 </ul>
 
