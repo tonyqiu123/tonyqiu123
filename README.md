@@ -6,7 +6,7 @@
 <h3>About Me</h3>
 <ul>
   <li>I'm currently a part-time Freelance Web Developer @ <a href="https://tonyswebdesigns.ca/">Tony's Web Designs!</a> since June 2022 👨‍💻</li>
-<li>I previously was a Fullstack Developer at BrightBearsInfo for a year from May 2021 to Sep 2022 💻</li>
+<li>I previously was a Fullstack Developer at BrightBearsInfo from May 2021 to Sep 2022 💻</li>
 <li>I was also Vice President and a Mentor at my high school's coding club where I taught my passion for web development! 🧑‍🏫</li>
 <li>I am passionate about using tech to optimize the world from an economic perspective 📈</li>
 <li>I speak English, Mandarin, and some Arabic (Egyption dialect)! 🌐</li>
