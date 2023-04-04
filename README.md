@@ -13,4 +13,5 @@
 
 <p>It was nice meeting you! If you want to discuss a project, opportunity, or just chat, you can contact me below!</p>
 <a href="https://www.linkedin.com/in/tonyqiu1/">linkedin.com/in/tonyqiu1/</a>
+<br>
 <a href="mailto:tqiu@uwaterloo.ca">tqiu@uwaterloo.ca</a>
