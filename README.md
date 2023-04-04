@@ -13,6 +13,8 @@
 <li>I love philosophy and would like to write a book about it when I'm older!</li>
 </ul>
 
+<br>
+
 <h3>My Work</h3>
 <ul>
 <li>What I'm working on:</li>
@@ -20,6 +22,8 @@
   <li>My <a href="https://tonyswebdesigns.ca/">freelance gig</a> where I build static websites from an empty folder to a live, custom, responsive website for you!</li>
   <li><a href="https://modernjobportal.netlify.app/">My job portal web app</a>! I've put almost 100 hours making this project to make it follow industry standards in data security, design, and development as I hope of one day selling it to a company!</li>
 </ul>
+
+<br>
 
 <p>It was nice meeting you! If you want to discuss a project, opportunity, or just chat, you can contact me below!</p>
 <a href="https://www.linkedin.com/in/tonyqiu1/">linkedin.com/in/tonyqiu1/</a>
