@@ -1,6 +1,6 @@
 <h6>Hey, I'm Tony! <img style="width: 40x; height: 40px" src="https://emoj.ml/ablobcolorshift.gif"/></h6>
 
-<p>I'm an engineering student @ UWaterloo who is passionate about web app design and development with 3 years of experience!</p>
+<p>I'm an engineering student @ UWaterloo who is passionate about web app design and development with 3 years of relevant experience!</p>
 
 <ul>
 <li>I'm currently a part-time Freelancer Web Developer @ Tony's Web Designs! 👨‍💻</li>
